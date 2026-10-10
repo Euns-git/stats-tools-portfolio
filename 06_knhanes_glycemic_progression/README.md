@@ -2,7 +2,13 @@
 
 국민건강영양조사(KNHANES) 2024년 자료를 이용하여 성인의 당뇨 진행 단계(정상 → 당뇨병전단계 → 당뇨병)에 따른 위험요인의 차별적 효과를 부분 비례오즈 모형(Partial Proportional Odds Model, PPO)으로 분석한 코드입니다.
 
+**English summary:** Analysis code for a first-author paper (under review) applying a partial proportional odds model with complex survey design to KNHANES 2024 data, examining risk factors across stages of glycemic status (normal → prediabetes → diabetes) in Korean adults aged 20–59. Raw data are not included (redistribution prohibited).
+
 > 논문: 성인의 당뇨 진행 단계별 위험요인의 차별적 효과: 국민건강영양조사(2024) 기반 부분 비례오즈 모형(Partial Proportional Odds Model) 적용
+
+## 프로젝트 개요
+   - 역할: 1저자 — 데이터 전처리, 모형 적합, 결과 해석, 논문 작성
+   - 상태: 보건정보통계학회지(JHIS) 투고 완료, 심사 중
 
 ## ⚠️ 데이터 안내 (반드시 읽어주세요)
 
@@ -57,5 +63,5 @@ install.packages(c("haven","dplyr","tableone","survey","svyVGAM",
 
 ## 참고
 
-- 본 코드는 국내 학술지(보건정보통계학회지) 투고 규정상 논문 부록에는 포함하지 않았으며, 재현성 확인 및 참고 목적으로 GitHub에 공개합니다.
+- 본 코드는 국내 학술지(보건정보통계학회지) 논문 부록에는 포함하지 않았으며, 재현성 확인 및 참고 목적으로 GitHub에 공개합니다.
 - 코드 실행 결과(수치)는 원자료 접근 승인 후 직접 실행해야 확인할 수 있습니다.
