@@ -1,4 +1,4 @@
-# Statistics Portfolio
+# Health Data Statistics Portfolio
 
 Nursing student with a double major in Statistics at Ewha Womans University, working on applied statistical analysis of health data. I am an undergraduate research assistant, and my main project is a first-author paper analyzing glycemic progression in the Korea National Health and Nutrition Examination Survey (KNHANES).
 
@@ -18,8 +18,9 @@ Nursing student with a double major in Statistics at Ewha Womans University, wor
 | [`05_life_science_data_analysis`](05_life_science_data_analysis) | Life science data analysis | R |
 | [`06_health_statistics`](06_health_statistics) | Health statistics: team survey analysis | SPSS |
 | [`07_nursing_research`](07_nursing_research) | Nursing research course project (qualitative study design) | |
+| [`08_pytorch_statistical_modeling`](08_pytorch_statistical_modeling) | Statistical programming: automatic differentiation, gradient descent, likelihood-based regression in PyTorch | Python |
 
 ## Notes
 
-- Raw data are not included. KNHANES data are available from the Korea Disease Control and Prevention Agency (https://knhanes.kdca.go.kr); course datasets come from the textbooks cited in each folder.
+- Raw data are not included. KNHANES data are available from the Korea Disease Control and Prevention Agency (https://knhanes.kdca.go.kr); course datasets come from the textbooks or course materials cited in each folder.
 - Each folder has its own README with the topics covered and the code.
