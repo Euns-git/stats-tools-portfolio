@@ -1,4 +1,4 @@
-# Statistics Portfolio
+# Health Data Statistics Portfolio
 
 Nursing student with a double major in Statistics at Ewha Womans University, working on applied statistical analysis of health data. I am an undergraduate research assistant, and my main project is a first-author paper analyzing glycemic progression in the Korea National Health and Nutrition Examination Survey (KNHANES).
 
